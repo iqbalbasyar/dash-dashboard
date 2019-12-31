@@ -11,7 +11,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 
 import numpy as np
-import cufflinks as cf
+# import cufflinks as cf
 import sqlite3
 
 # Multi-dropdown options
