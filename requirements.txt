@@ -1,6 +1,6 @@
-# pandas==0.24.2
-# dash==1.0.0
-# gunicorn==19.9.0
-pandas
-dash
-gunicorn
+pandas==0.24.2
+dash==1.0.0
+gunicorn==19.9.0
+# pandas
+# dash
+# gunicorn
