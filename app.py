@@ -640,4 +640,4 @@ def make_count_figure(artists_dropdown, genres_dropdown, year_slider):
 
 # Main
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(debug=False)
