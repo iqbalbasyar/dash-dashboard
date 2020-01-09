@@ -121,7 +121,7 @@ app.layout = html.Div(
                     [
                         html.A(
                             html.Button("View Source", id="learn-more-button"),
-                            href="https://github.com/iqbalbasyar/",
+                            href="https://github.com/iqbalbasyar/dash-dashboard",
                         )
                     ],
                     className="one-third column",
